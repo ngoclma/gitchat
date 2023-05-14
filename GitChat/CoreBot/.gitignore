@@ -1,0 +1,43 @@
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+**/packages/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Resharper
+_ReSharper.*/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+
+# Visual Studio Code
+.vscode/
